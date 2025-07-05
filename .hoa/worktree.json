@@ -1,0 +1,52 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2657,
+    "time": 1751724763,
+    "hash": "59bf80ee97f21d7d21ea583df75cd3d9eb0d4afb"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1721549726,
+    "hash": "b307d966db95b9ffc73f851420f3bad380e863c0"
+  },
+  "README.md": {
+    "size": 1874,
+    "time": 1735134142,
+    "hash": "51ee19200be851af3ba76c910d90693b42d229de"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737636126,
+    "hash": "209cc60adc4311871f7f30617fe6db81223d0b48"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737636126,
+    "hash": "209cc60adc4311871f7f30617fe6db81223d0b48"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1721549726,
+    "hash": "b307d966db95b9ffc73f851420f3bad380e863c0"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737636126,
+    "hash": "209cc60adc4311871f7f30617fe6db81223d0b48"
+  },
+  "materials/AUTO3011《运动控制系统》20230523.doc": {
+    "size": 114419,
+    "time": 1721552886,
+    "hash": "4bcb602b70c1cccc8bd125d5ee5f3be03cc66a33"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737636126,
+    "hash": "209cc60adc4311871f7f30617fe6db81223d0b48"
+  },
+  "tag.txt": {
+    "size": 104,
+    "time": 1721552886,
+    "hash": "4bcb602b70c1cccc8bd125d5ee5f3be03cc66a33"
+  }
+}
