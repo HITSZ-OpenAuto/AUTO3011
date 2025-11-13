@@ -1,0 +1,8 @@
+GradeComposition:
+  - Name: "作业"
+    Percentage: 35
+  - Name: "实验" 
+    Percentage: 35
+  - Name: "期末考试"
+    Percentage: 30
+CourseHourComposition: []
