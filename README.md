@@ -1,10 +1,5 @@
 # AUTO3011 - 运动控制系统
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业+实验50%](https://img.shields.io/badge/作业+实验-50%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 这门课之前放在大四上，因选课人数少，2024 年秋季第一次开课，因此几乎没有课程资料，欢迎大家贡献。
 这门课还面向本校研究生开设（改称为“运动控制"，课件内容相同，只是翻译为英文）。
