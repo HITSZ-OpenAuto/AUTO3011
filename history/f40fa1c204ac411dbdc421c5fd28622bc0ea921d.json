@@ -1,0 +1,147 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814346,
+    "hash": "1d2530623faf8ded00dbe409d9ae8b16d4646e2b"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1721549726,
+    "hash": "b307d966db95b9ffc73f851420f3bad380e863c0"
+  },
+  "README.md": {
+    "size": 3334,
+    "time": 1791961359,
+    "hash": "f40fa1c204ac411dbdc421c5fd28622bc0ea921d"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737636126,
+    "hash": "209cc60adc4311871f7f30617fe6db81223d0b48"
+  },
+  "assignments/2025-Oliver Wu/hw1.m": {
+    "size": 21811,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "assignments/2025-Oliver Wu/hw2.m": {
+    "size": 9507,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "assignments/2025-Oliver Wu/hw3.m": {
+    "size": 4887,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "assignments/2025-Oliver Wu/作业1.pdf": {
+    "size": 715823,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "assignments/2025-Oliver Wu/作业2.pdf": {
+    "size": 222305,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "assignments/2025-Oliver Wu/作业3.pdf": {
+    "size": 657531,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "assignments/2025-Oliver Wu/作业4.docx": {
+    "size": 59126,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "assignments/2025课外作业_20251007110106.pdf": {
+    "size": 203864,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737636126,
+    "hash": "209cc60adc4311871f7f30617fe6db81223d0b48"
+  },
+  "exams/2025 运动控制 期末试题回忆.pdf": {
+    "size": 279292,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "labs/2025-吴俊达/实验一.pdf": {
+    "size": 1637096,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "labs/2025-吴俊达/实验三.pdf": {
+    "size": 1459479,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "labs/2025-吴俊达/实验二.pdf": {
+    "size": 2136464,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "labs/2025-吴俊达/实验四.pdf": {
+    "size": 1551320,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1721549726,
+    "hash": "b307d966db95b9ffc73f851420f3bad380e863c0"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737636126,
+    "hash": "209cc60adc4311871f7f30617fe6db81223d0b48"
+  },
+  "materials/AUTO3011《运动控制系统》20230523.doc": {
+    "size": 114419,
+    "time": 1721552886,
+    "hash": "4bcb602b70c1cccc8bd125d5ee5f3be03cc66a33"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737636126,
+    "hash": "209cc60adc4311871f7f30617fe6db81223d0b48"
+  },
+  "notes/2025-Oliver Wu/3.1.1 微分几何初步.pdf": {
+    "size": 2475932,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "notes/2025-Oliver Wu/3.1.2 & 4.1 样条&样条拟合.pdf": {
+    "size": 3206331,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "notes/2025-Oliver Wu/3.2.1 正逆运动学 旋转.pdf": {
+    "size": 1433095,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "notes/2025-Oliver Wu/3.2.2 正逆运动学 一般刚体运动.pdf": {
+    "size": 1675441,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "notes/2025-Oliver Wu/4.2 带方向路径平滑.pdf": {
+    "size": 467069,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "notes/2025-Oliver Wu/5. 速度规划.pdf": {
+    "size": 2450296,
+    "time": 1763837579,
+    "hash": "96331613f2c02889dd7be031ef5d8d1dc2cb83b8"
+  },
+  "readme.toml": {
+    "size": 3364,
+    "time": 1773427975,
+    "hash": "801fccac881f92ecb18025def34342f885b1feca"
+  }
+}
